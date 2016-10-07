@@ -1,1 +1,3 @@
 # InfiniteHorizontalScroll
+
+Endless Scrolling - Horizontal
